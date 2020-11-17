@@ -1,0 +1,9 @@
+{
+    "identifier": "yohannparis.Cobalt2",
+    "name": "Cobalt2",
+    "organization": "Yohann Paris",
+    "description": "Cobalt2 theme for Nova, inspired from Wes Bos.",
+    "version": "1.0.0",
+    "categories": ["themes"],
+    "bugs": "https://github.com/YohannParis/cobalt2-nova/issues"
+}
